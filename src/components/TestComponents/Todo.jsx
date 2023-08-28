@@ -42,7 +42,7 @@ const Todo = () => {
         <section className='todo-container'>
             <div className='todo'>
                 <h1 className='header'>
-                    Todo-App
+                    Todo-App updated by prajwal
                 </h1>
             </div>
             <div>

@@ -20,7 +20,7 @@ const Home = () => {
 
             const data = doc.docs[0].data();
             // test
-            console.log(doc.docs, data);
+            // console.log(doc.docs, data);
 
             setName(data.name);
         } catch (error) {
